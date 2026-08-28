@@ -1,0 +1,20 @@
+# Data files -- too large for GitHub, and not yours to redistribute.
+# See README for instructions on regenerating instacart.duckdb from the
+# public Kaggle dataset.
+*.duckdb
+*.csv
+archive/
+
+# Never commit API keys or secrets
+.env
+*.key
+
+# Jupyter checkpoint files
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
