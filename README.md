@@ -1,4 +1,4 @@
-# Generic SQL Insight Agent
+# Automated SQL Insight Agent (AI Agent)
 
 A reusable, natural-language analytics agent. Ask a plain English question about
 any SQL database, and it writes its own SQL, runs it, and explains the results —
